@@ -1,4 +1,4 @@
-<img src="./bg.gif" />
+<center><img src="./bg.gif" /></center>
 
 ### Hi there 👋
 
