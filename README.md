@@ -5,5 +5,5 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working HTML, CSS, JS, NODEJS, PHP, SASS, PYTHON
-- 📫 How to reach me:  [email](mailto:contact@stevenoyer.fr)
+- 🔭 I’m currently working Joomla, PHP, Symfony, Python, MySQL
+- 📫 How to reach me:  [email](mailto:steven@oyer.fr)
