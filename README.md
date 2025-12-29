@@ -1,4 +1,4 @@
-Hi there 👋  
+## Hi there 👋  
 I am a **french web developer** focused on **pragmatic, maintainable and business-oriented web solutions**.
 
 I started learning web development around **2015**, building personal projects before moving into professional and client-facing work.  
